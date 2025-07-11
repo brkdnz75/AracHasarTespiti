@@ -1,0 +1,22 @@
+# Streamlit arayüzü için
+streamlit
+
+# Model çalıştırma için temel kütüphaneler
+torch
+numpy
+opencv-python
+Pillow
+matplotlib
+pandas
+
+# Drive'dan model indirme
+gdown
+
+# YOLOv5 için PyTorch Hub kullanımı
+# (ultralytics/yolov5 için ayrıca bir paket gerekmez)
+
+# YOLOv8 için ultralytics paketi
+ultralytics
+
+# Faster R-CNN için Detectron2 (Facebook Research'ten geliyor)
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git
