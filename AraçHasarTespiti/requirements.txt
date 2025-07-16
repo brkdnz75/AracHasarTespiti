@@ -2,15 +2,15 @@
 streamlit>=1.38.0
 
 # Model için temel kütüphaneler
-torch>=2.3.0
-numpy>=1.26.4
-opencv-python>=4.10.0
-Pillow>=10.4.0
-matplotlib>=3.9.2
-pandas>=2.2.3
+torch==2.3.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+matplotlib==3.9.2
+pandas==2.2.3
 
 # Google Drive’dan model indirme
-gdown>=5.2.0
+gdown==5.2.0
 
 # YOLOv8 ve YOLOv5 için
-ultralytics>=8.2.0
+ultralytics==8.2.0
